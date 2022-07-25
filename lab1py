@@ -1,0 +1,7 @@
+def create_youtube_video(title. description):
+	youtubevideo={"title":"Banner"."description":"the story of my life"."likes": 0."dislikes": 0."comments":{}}
+	return youtubevideo
+
+def like(numberlikes):
+	numberlikes("likes") +=1
+	return
